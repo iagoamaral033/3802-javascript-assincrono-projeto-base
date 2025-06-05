@@ -1,6 +1,6 @@
 const uploadBtn = document.getElementById("upload-btn");
 const inputUpload = document.getElementById("image-upload")
-
+teste
 uploadBtn.addEventListener("click", () => {
     inputUpload.click();
 })
